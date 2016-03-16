@@ -5,4 +5,4 @@ If you want to test this project in your system. Download this project and impor
 
 ### Steps to run:
   1. Run file `DemoApplication.java` and 
-  2. Open your browser then type `http://localhost:8080`
+  2. Open your browser and type `http://localhost:8080` url to your search bar.
